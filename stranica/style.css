@@ -1,0 +1,16 @@
+body{
+    background:url("img/cena.jpg");
+    background-size:cover;
+    color:#fff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 32px;
+   
+}
+
+p{
+    text-align: center;
+}
+
+strong{
+    font-size:64px;
+}
